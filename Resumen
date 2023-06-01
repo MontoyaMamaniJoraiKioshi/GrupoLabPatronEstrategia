@@ -1,0 +1,4 @@
+Se tienen las clases de estrategia izquierda, derecha y basica creadas y tambien la inerfaz, aunque el cliente y contexto estan dentro del mismo estando definidos dentro de board
+el objetivo se definio como colocr la pierza por encima de board partiendo de distintas pociciones, las cuales son desde la izquierda, derecha y desde el centro definida como basica
+la estrategia se aplica con tick para que el movimiento de la pieza sea mas natural y visible
+llamamos a una estrategia por default para empezar a cargar en unreal y evitar un error, y mediante una tecla de cambio de estrategia para hacer uso de las mismas
